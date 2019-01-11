@@ -1,2 +1,0 @@
-# reactresturant
-Created with CodeSandbox
